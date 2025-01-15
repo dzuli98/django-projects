@@ -1,7 +1,1 @@
 venv/
-studybud/base/__pycache__/
-studybud/base/api/__pycache__/
-studybud/migrations/api/__pycache__/
-studybud/data.json
-studybud/db.sqlite3
-studybud/studybud/__pycache__/
